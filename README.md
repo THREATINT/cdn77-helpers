@@ -43,4 +43,4 @@ Kindly raise an issue in Github if you find a problem in the code.
 [Subscribe to our mailing list](https://newsletter.threatint.com/subscription?f=NiRp2763y19cplj796wGLZKeWSkrkkO8stBCsNbHL668BFHW478DRGNlNBXJZtV3rzH1DzWbtP8jGAJ4WDHmRPkw) to learn more about our work.
 
 ## License
-This repository is released under the [MIT License](https://opensource.org/licenses/MIT).
+Release under the MIT License. (see LICENSE)
