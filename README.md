@@ -36,11 +36,11 @@ We currently provide two scripts
 `<site>` is the site that is on CDN77, e.g. www.mysite.com.
 
 ## Feedback
-We would love to hear from you! 
+We would love to hear from you! Please contact us at [help@threatint.com](mailto:help@threatint.com) for feedback and general requests.
 
-## Mailing list
-Subscribe to our newsletter to learn more about our work.
-[](https://newsletter.threatint.com/subscription?f=NiRp2763y19cplj796wGLZKeWSkrkkO8stBCsNbHL668BFHW478DRGNlNBXJZtV3rzH1DzWbtP8jGAJ4WDHmRPkw)
+Kindly raise an issue in Github if you find a problem in the code.
+
+[Subscribe to our newsletter](https://newsletter.threatint.com/subscription?f=NiRp2763y19cplj796wGLZKeWSkrkkO8stBCsNbHL668BFHW478DRGNlNBXJZtV3rzH1DzWbtP8jGAJ4WDHmRPkw) to learn more about our work.
 
 ## License
-Released under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is released under the [MIT License](https://opensource.org/licenses/MIT).
