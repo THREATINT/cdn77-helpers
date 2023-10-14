@@ -16,7 +16,7 @@ to install on Debian or Ubuntu.
 ### API Token
 In order to use the REST API you need to generate an [API token](https://client.cdn77.com/account/api). Run 
 
-`export cdn77_token=<token>` 
+`export CDN77_TOKEN='<token>'` 
 
 in Bash to make the token available to the scripts.
 
