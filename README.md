@@ -25,7 +25,7 @@ in Bash to make the token available to the scripts.
 We currently provide two scripts 
 - `cdn77-purge-all` allows you to instantly remove all cached content from the CDN for a given site. 
 
-- `cdn77-prefetch-all` populates the CDN cache for a given site using the information from its sitemap.txt, so that content is already available on all machines in all datacenters when clients start sending requests to the CDN. 
+- `cdn77-prefetch-all` populates the CDN cache for a given site using the information from its sitemap.txt, so that content is already available on all machines in all data centres when clients start sending requests to the CDN. 
 
 
 ## Running
